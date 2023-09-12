@@ -170,7 +170,7 @@ display:none;
 display:none;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 899px) {
 .main-menu .navigation>li:nth-child(3) {
 display:none;
 }
