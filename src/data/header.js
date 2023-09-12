@@ -70,7 +70,7 @@ const navItems = [
   },
   {
     id: 3,
-    name: "pricing",
+    name: "Pages",
     href: "/pricing",
     subNavItems: [
       { id: 1, name: "Our Pricing", href: "/pricing" },
@@ -95,10 +95,35 @@ const navItems = [
       // },
     ],
   },
-  {
-    id: 4,
+    {
+    id: 1,
+    name: "pricing",
+    href: "/pricing",
+    subNavItems: [
+    
+
+    ],
+  },  {
+    id: 3,
     name: "Services",
     href: "/services",
+    subNavItems: [
+    
+
+    ],
+  },  {
+    id: 7,
+    name: "How it Works",
+    href: "//how-it-works",
+    subNavItems: [
+    
+
+    ],
+  },
+  {
+    id: 4,
+    name: "FAQs",
+    href: "//faqs",
     subNavItems: [
     
 
