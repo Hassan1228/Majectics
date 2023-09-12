@@ -935,7 +935,7 @@ img {
 }
 
 .main-menu .navigation > li > ul > li:hover > a {
-  color: var(--thm-base);
+  color: #a9278f;
 }
 
 .main-menu .navigation > li > ul > li > ul {
