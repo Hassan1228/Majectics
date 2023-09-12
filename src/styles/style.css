@@ -24239,6 +24239,4 @@ background: #a9278f;
     color: white;
     font-family: 'SuiGenerisRg-Regular';
 }
-.main-menu .navigation, .main-menu .navigation>li:nth-child(3) {
-    display: none;
-  }
+
