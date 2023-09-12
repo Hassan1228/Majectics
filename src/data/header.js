@@ -70,7 +70,7 @@ const navItems = [
   },
   {
     id: 3,
-    name: "Pages",
+    name: "pricing",
     href: "/pricing",
     subNavItems: [
       { id: 1, name: "Our Pricing", href: "/pricing" },
