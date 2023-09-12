@@ -14713,7 +14713,7 @@ color: Var(--bg-color-1);
 
 .pricing-card__bottom {
   border-radius: 8px;
-  background-color: #fff;
+  background-color: #000;
   padding-top: 40px;
   padding-bottom: 40px;
   -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.04);
