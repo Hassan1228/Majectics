@@ -160,6 +160,6 @@
     outline: 1px solid slategrey;
   }
   
-.main-menu .navigation>li:nth-child(3) {
-  background: yellow;
+.main-menu .navigation>li:nth-child(4) {
+display:none;
 }
