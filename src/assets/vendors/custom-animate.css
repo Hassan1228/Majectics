@@ -191,3 +191,9 @@
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
+
+@media screen and (max-width: 992px) {
+  #cursor {
+   display:none;
+  }
+}
