@@ -187,3 +187,12 @@ display:block;
     transform: rotate(4deg) translateZ(0);
 }
 }
+
+
+@media only screen and (min-width: 900px) and (max-width: 1200px)  {
+
+	#paper-window.tilt #paper-front {
+    transform: rotate(6deg) translateZ(0);
+}
+	
+}
