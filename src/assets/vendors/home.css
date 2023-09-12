@@ -160,6 +160,6 @@
     outline: 1px solid slategrey;
   }
   
-navigation clearfix a:nth-child(3) {
+.main-menu .navigation>li:nth-child(3) {
   background: yellow;
 }
