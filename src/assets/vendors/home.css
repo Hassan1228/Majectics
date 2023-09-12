@@ -160,6 +160,6 @@
     outline: 1px solid slategrey;
   }
   
-.main-menu .navigation li>a:first-child > a{
-	display:none;
+.main-menu .navigation>li:first-child{
+  background-color: #ffffff;
 }
