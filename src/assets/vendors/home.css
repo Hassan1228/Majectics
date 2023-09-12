@@ -183,4 +183,7 @@ display:block;
 .main-menu .navigation>li:nth-child(7) {
 display:block;
 }
+	#paper-window.tilt #paper-front {
+    transform: rotate(4deg) translateZ(0);
+}
 }
