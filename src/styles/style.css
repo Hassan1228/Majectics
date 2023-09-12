@@ -843,6 +843,7 @@ img {
 
 .header-style-two.fixed-header .main-menu .navigation > li.current > a {
   color: var(--thm-base);
+	
 }
 
 .main-menu .navigation > li > a:before {
@@ -990,7 +991,7 @@ img {
 }
 
 .main-menu .navigation > li > ul > li > ul > li > a:hover {
-  color: var(--thm-base);
+  color: #a9278f;
 }
 
 .main-menu .navigation > li > ul > li.dropdown > a:after {
