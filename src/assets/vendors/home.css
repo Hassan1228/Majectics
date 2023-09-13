@@ -184,7 +184,7 @@ display:block;
 display:block;
 }
 	#paper-window.tilt #paper-front {
-    transform: rotate(4deg) translateZ(0);
+    transform: rotate(5deg) translateZ(0);
 }
 }
 
