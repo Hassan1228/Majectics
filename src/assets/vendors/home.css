@@ -183,11 +183,23 @@ display:block;
 .main-menu .navigation>li:nth-child(7) {
 display:block;
 }
-	#paper-window.tilt #paper-front {
-    transform: rotate(5deg) translateZ(0);
-}
+
 }
 
+@media only screen and (min-width: 260px) and (max-width: 768px)  {
+
+	#paper-window.tilt #paper-front {
+    transform: rotate(4deg) translateZ(0);
+}
+	
+}
+@media only screen and (min-width: 769px) and (max-width: 899px)  {
+
+	#paper-window.tilt #paper-front {
+    transform: rotate(6deg) translateZ(0);
+}
+	
+}
 
 @media only screen and (min-width: 900px) and (max-width: 1200px)  {
 
