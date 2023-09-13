@@ -3738,8 +3738,8 @@ color: Var(--bg-color-1);
 .service-block::before{
     
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 150%;
+    height: 150%;
     content: '';
     background-image: conic-gradient(transparent, transparent, transparent, #ee00ff);
     animation: rotate_border 6s linear infinite;
@@ -3748,8 +3748,8 @@ color: Var(--bg-color-1);
 .service-block::after{
     
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 150%;
+    height: 150%;
     content: '';
     background-image: conic-gradient(transparent, transparent, transparent, #00ccff);
     animation: rotate_border 6s linear infinite;
