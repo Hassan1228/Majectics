@@ -3769,7 +3769,7 @@ color: Var(--bg-color-1);
     background-color: #0c1022;
     border-radius: 50px 5px;
     inset: 5px;
-    padding: 50px 40px;
+    padding: 0px 0px;
     z-index: 10;
     color: #00ccff;
 
