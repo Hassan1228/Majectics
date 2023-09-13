@@ -189,7 +189,7 @@ display:block;
 @media only screen and (min-width: 260px) and (max-width: 768px)  {
 
 	#paper-window.tilt #paper-front {
-    transform: rotate(4deg) translateZ(0);
+    transform: rotate(6deg) translateZ(0);
 }
 	
 }
