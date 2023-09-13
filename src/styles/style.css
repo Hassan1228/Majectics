@@ -3726,10 +3726,6 @@ color: Var(--bg-color-1);
 
     margin-bottom: 30px;
     position: relative;
-    width: 400px;
-    height: 470px;
-    max-width: 400px;
-    max-height: 470px;
     background: #040717;
     border-radius: 50px 5px;
     display: flex;
