@@ -3724,9 +3724,12 @@ color: Var(--bg-color-1);
 
 .service-block {
 
-  margin-bottom: 30px;
-	    position: relative;
- 
+    margin-bottom: 30px;
+    position: relative;
+    width: 400px;
+    height: 470px;
+    max-width: 400px;
+    max-height: 470px;
     background: #040717;
     border-radius: 50px 5px;
     display: flex;
@@ -3738,8 +3741,8 @@ color: Var(--bg-color-1);
 .service-block::before{
     
     position: absolute;
-    width: 150%;
-    height: 150%;
+    width: 170%;
+    height: 170%;
     content: '';
     background-image: conic-gradient(transparent, transparent, transparent, #ee00ff);
     animation: rotate_border 6s linear infinite;
@@ -3748,8 +3751,8 @@ color: Var(--bg-color-1);
 .service-block::after{
     
     position: absolute;
-    width: 150%;
-    height: 150%;
+    width: 170%;
+    height: 170%;
     content: '';
     background-image: conic-gradient(transparent, transparent, transparent, #00ccff);
     animation: rotate_border 6s linear infinite;
