@@ -4,7 +4,6 @@ import "@/vendors/custom-animate.css";
 import "@/vendors/flaticon.css";
 import "@/vendors/fontawesome-all.css";
 import "@/vendors/home.css";
-import "@/vendors/base.css";
 import "@/vendors/linoor-icons.css";
 import "@/vendors/reey-font.css";
 import "bootstrap/dist/css/bootstrap.min.css";
